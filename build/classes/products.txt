@@ -1,0 +1,5 @@
+product1;code1;price1
+product2;code2;price2
+product3;code3;price3
+product4;code4;price4
+product5;code5;price5
